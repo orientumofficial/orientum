@@ -1,0 +1,9 @@
+Building Orientum
+
+See doc/readme-qt.rst for instructions on building Orientum-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Orientum.
+
+See doc/build-*.txt for instructions on building Orientumd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Orientum.
