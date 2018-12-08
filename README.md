@@ -20,6 +20,9 @@ Orientum is based on litecoin and bitcoin and uses scrypt as proof-of-work algor
  - 888888888 total coins
  - 3555555.552 coins per block (till 250th Block)
  - 480 blocks to retarget difficulty
+ 
+ Web wallet: https://www.orientumwallet.website
+ Explorer: http://explorer.orientumwall.website
 
 
 License
