@@ -22,6 +22,7 @@ Orientum is based on litecoin and bitcoin and uses scrypt as proof-of-work algor
  - 480 blocks to retarget difficulty
  
  Web wallet: https://www.orientumwallet.website
+ 
  Explorer: http://explorer.orientumwall.website
 
 
